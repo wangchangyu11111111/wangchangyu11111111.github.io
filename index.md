@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 王畅宇（2007010057）
 
-You can use the [editor on GitHub](https://github.com/wangchangyu11111111/wangchangyu11111111.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简介
+姓名：王畅宇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+性别：女
 
-### Markdown
+专业：法学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+政治面貌：团员
 
-```markdown
-Syntax highlighted code block
+电子邮件：1143824108@qq.com
 
-# Header 1
-## Header 2
-### Header 3
+# 技能总结：
+英语四级，社交牛杂症前期
 
-- Bulleted
-- List
+# 兴趣爱好：
+吃饭睡觉搞钱钱
 
-1. Numbered
-2. List
+# 教育背景：
+目前是湖南工商大学法学院大二年级本科在读
 
-**Bold** and _Italic_ and `Code` text
+# 主修课程：
+民法刑法经济法国际法等
 
-[Link](url) and ![Image](src)
-```
+# 获奖详情：
+无
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangchangyu11111111/wangchangyu11111111.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 自我评价：
+介于积极进取和懒散度日间的矛盾体
